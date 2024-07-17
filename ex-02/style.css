@@ -1,0 +1,18 @@
+.caixa {
+    background: lavender;
+    border: 1px solid black;
+    width: 130px;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .caixao{
+    width: 800px;
+    height: 500px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
